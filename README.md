@@ -32,6 +32,7 @@ Beispiele und Code, den wir in der Vorlesung entwickeln, werden mittels Git-Repo
 * [Die Programmiersprache Go](https://golang.org)
 * Ein guter Texteditor, z.B. [Visual Studio Code](https://code.visualstudio.com/)
 * später evtl. weitere Programmiersprachen (z.B. Java)
+* Optional: [Das Versionskontrollsystem Git](https://git-scm.com/)
 
 In der Vorlesung wird eine Umgebung bestehend aus VSCode und Go bereitgestellt, die nicht installiert werden muss.
 Bequemer ist es auf Dauer, die Programme selbst zu installieren.
